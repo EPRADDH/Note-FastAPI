@@ -1,0 +1,2 @@
+# Note-FastAPI
+Practice note 
